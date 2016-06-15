@@ -12,7 +12,7 @@ graph dc {
    "fw2"       [function="host" os="boxcutter/ubuntu1404"]
    "lb1"       [function="host" os="boxcutter/ubuntu1404"]
    "lb2"       [function="host" os="boxcutter/ubuntu1404"]
-   "server1"   [function="host" os="boxcutter/ubuntu1404"]
+   "server1"   [function="host" os="boxcutter/ubuntu1204"]
    "server2"   [function="host" os="boxcutter/ubuntu1404"]
    "internet":"swp1" -- "r1-spine":"swp48"
    "internet":"swp2" -- "r2-spine":"swp48"
